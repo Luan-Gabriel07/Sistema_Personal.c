@@ -1,4 +1,3 @@
-# Sistema_Personal.c
 # Sistema para Personal Trainer
 
 Este projeto consiste em um sistema desenvolvido em linguagem C para auxiliar personal trainers no gerenciamento de alunos e na criação de treinos personalizados.
