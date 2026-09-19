@@ -52,4 +52,4 @@ O projeto está em desenvolvimento e pode receber novas funcionalidades e melhor
 
 **Luan Gabriel**
 
-Estudante de Engenharia de Software, atualmente focado em desenvolver meus conhecimentos em programação e, futuramente, atuar na área de desenvolvimento Back-end.
+Estudante de Engenharia de Software, atualmente focado em desenvolver meus conhecimentos em programação e, futuramente, atuar na área de desenvolvimento.
